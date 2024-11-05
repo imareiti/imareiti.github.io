@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://imareiti.github.io/Wvn/sitemap_index.txt
+Sitemap: https://imareiti.github.io/hrt/sitemap_index.txt
+Sitemap: https://imareiti.github.io/kgB/sitemap_index.txt
+Sitemap: https://imareiti.github.io/miR/sitemap_index.txt
